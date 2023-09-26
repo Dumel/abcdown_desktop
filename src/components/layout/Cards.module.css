@@ -1,0 +1,23 @@
+/* Cards.module.css */
+
+.containerCard {
+    background-color: white;
+    border-radius: 20px; /* Adiciona bordas arredondadas */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma leve sombra */
+    
+    
+  }
+  
+  .cardContent {
+    flex: 1; /* Permite que o conteúdo do Card ocupe o espaço restante */
+    padding: 20px; /* Adicione o espaçamento interno para o conteúdo do Card */
+ 
+}
+  
+  .containerInfo {
+    display: flex;
+    justify-content: flex-end;
+  
+  
+  }
+  

@@ -1,0 +1,19 @@
+.inputContainer{
+    /* background-color: teal; */
+    height: max-content;
+  
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* background-color: aqua; */
+}
+.inputField {
+    border-radius: 8px;
+    border-width: 1px; 
+    border-style: solid;
+    outline: none;
+    padding: 4px 7px;
+    height: 3vh;
+    background-color: #F6F6F6;
+
+}

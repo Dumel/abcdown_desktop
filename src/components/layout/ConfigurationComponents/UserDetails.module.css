@@ -1,0 +1,11 @@
+.ContainerUserDetails {
+    background-color: #F0754E;
+    width: 100%;
+    border-top:1px solid white;
+    height: max-content;
+    display: flex;
+    
+    padding: 2vh 0;
+    flex-direction: column;
+
+}
